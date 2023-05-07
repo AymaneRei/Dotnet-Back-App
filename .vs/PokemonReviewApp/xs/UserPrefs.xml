@@ -1,0 +1,26 @@
+﻿<Properties StartupConfiguration="{9C83BCCD-63E4-4A34-B2DF-CF09B292BF2E}|https">
+  <MonoDevelop.Ide.ItemProperties.PokemonReviewApp PreferredExecutionTarget="/Applications/Firefox.app" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints />
+  <MonoDevelop.Ide.Workbench ActiveDocument="PokemonReviewApp/Controllers/AuthenticationController.cs">
+    <Files>
+      <File FileName="PokemonReviewApp/Program.cs" Line="10" Column="34" />
+      <File FileName="PokemonReviewApp/Controllers/AuthenticationController.cs" Line="86" Column="14" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="PokemonReviewApp" expanded="True">
+            <Node name="PokemonReviewApp" expanded="True">
+              <Node name="Controllers" expanded="True">
+                <Node name="AuthenticationController.cs" selected="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+</Properties>
